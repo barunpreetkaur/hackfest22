@@ -1,0 +1,50 @@
+.container{
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+
+.btn1{
+    color: black;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    height: 40;
+    width: 80;
+}
+
+.btn2{
+    color: black;
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    height: 40;
+    width: 80;
+} 
+
+.btn3{
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    height: 40;
+    width: 80;
+} 
+
+.btn4{
+    color: black;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    height: 40;
+    width: 80;
+} 
+.flex-box-change-colors{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
